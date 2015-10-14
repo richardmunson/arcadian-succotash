@@ -1,4 +1,4 @@
 # arcadian-succotash
 # Something Else
-First repository.
+First repository.\n
 Something Else.
